@@ -1,0 +1,63 @@
+Harrison Gerber Chapter 30 Review Answers
+-----------------------------------------
+1)
+int j = 0;
+while (j < 6)
+
+2)
+System.out.println("Hello Vesta");
+
+Vesta vest = new Vesta();
+vest.speak();
+
+3)
+System.out.println
+
+Vesta vest = new Vesta();
+vest.speak();
+
+4)
+new Vesta().speak();
+
+5)
+System.out.println("Hello Vesta");
+
+Vesta vest = new Vesta();
+vest.speak();
+
+6)
+String message;
+message = mess;
+System.out.println(message);
+
+7)
+int limit;
+limit = lim;
+
+while (j < limit)
+
+Vesta vest = new Vesta ("Hello Vesta", 6);
+
+8)
+void speak (int limit)
+while (j < limit)
+
+vest.speak(6);
+
+9)
+message = "Hello Vesta";
+
+Vesta (String mess) {
+   message = mess;
+}
+
+vest.speak(6);
+
+10)
+void changeMessage(String mess) {
+   message = mess;
+}
+
+System.out.println(message);
+
+vest.changeMessage("Hello Ceres");
